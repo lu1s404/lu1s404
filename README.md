@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub Profile
+
+#### About me
+Im a cs student from Germany interested in cybersecurity and software engineering!
+
+#### Skills
+- Python, C++
+- Webdesign: Html, Css
+- Backend: SQL, Flask
 
 <!--
 **lu1s404/lu1s404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
