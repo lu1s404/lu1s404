@@ -7,6 +7,7 @@ Im a cs student from Germany interested in cybersecurity and software engineerin
 - Python, C++
 - Webdesign: Html, Css
 - Backend: SQL, Flask
+- Linux + Servermanagment
 
 <!--
 **lu1s404/lu1s404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
