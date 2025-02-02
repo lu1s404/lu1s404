@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Profile
 
 #### About me
-Im a cs student from Germany interested in cybersecurity and software engineering!
+Im a cs student from Germany interested in cybersecurity and software engineering.
 
 #### Skills
 - Python, C++
