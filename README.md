@@ -7,7 +7,7 @@ I'm a Computer Science student from Germany with a passion for cybersecurity and
 
     Languages: Python, C++
 
-    Web Development: HTML, CSS
+    Frontend: HTML, CSS
 
     Backend: Flask, SQL
 
