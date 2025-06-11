@@ -1,25 +1,13 @@
-## Welcome to my GitHub Profile
+👋 Welcome to My GitHub Profile!
 
-#### About me
-Im a cs student from Germany interested in cybersecurity and software engineering.
+## About Me
+I'm a Computer Science student from Germany with a passion for cybersecurity and software engineering. I love exploring new technologies, building secure systems, and solving complex problems.
+🛠️ Skills & Technologies
 
-#### Skills
-- Python, C++
-- Webdesign: Html, Css
-- Backend: SQL, Flask
-- Linux + Servermanagment
+    Languages: Python, C++
 
-<!--
-**lu1s404/lu1s404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Web Development: HTML, CSS
 
-Here are some ideas to get you started:
+    Backend: Flask, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Other: Linux, Server Management
