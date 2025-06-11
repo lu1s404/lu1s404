@@ -2,7 +2,8 @@
 
 ## About Me
 I'm a Computer Science student from Germany with a passion for cybersecurity and software engineering. I love exploring new technologies, building secure systems, and solving complex problems.
-🛠️ Skills & Technologies
+
+## 🛠️ Skills & Technologies
 
     Languages: Python, C++
 
